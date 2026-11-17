@@ -6,16 +6,25 @@ nav_order: 2
 
 # Schedule
 
-## By Unit
+See [Course Content](content/introduction.html#course-topics) for the list of topics, and [Deliverables & Grading](deliverables.html) for full assignment details.
 
-| Date | Session | Slides | Activity |
-|---|---|---|---|
-| **Week 1** | | | |
-| Wed Sep 9 | Lecture 1: Topic title | [Slides](#) | |
-| Thu Sep 10 | Discussion 1: Topic title | | [Activity](#) |
-| Fri Sep 11 | Lecture 2: Topic title | [Slides](#) | |
-| Tue Sep 15 | *Quiz 1 deadline* | | |
-| **Week 2** | | | |
-| Wed Sep 16 | Lecture 3: Topic title | [Slides](#) | |
-| Thu Sep 17 | Discussion 2: Topic title | | [Activity](#) |
-| Fri Sep 18 | Lecture 4: Topic title | [Slides](#) | |
+## Course Schedule
+
+| Week & Course Module | Assignments |
+|---|---|
+| Week 1 - Introductions | None |
+| Week 2 - Topic 1 | None |
+| Week 3 - Topic 1 | IP 1 (Required)<br>Group formation/confirmation for project assignment |
+| Week 4 - Topic 2 | IP 2 (Required) |
+| Week 5 - Topics 3-9 | Project Assignment Part 1b (Selection of GenAI tools OR Scope/rationale for AI refusal framework, depending on option A/B) |
+| Week 6 - Topics 3-9 | |
+| Week 7 - Topics 3-9 | Project Assignment Part 2 (Proposal) |
+| Week 8 - Topics 3-9 | |
+| Week 9 - Topic 10 | Assignment 2 brief (1 paragraph) proposal |
+| Week 10 - Topic 10 | IP 10 (Required) |
+| Week 11 - Topics 3-9 | Assignment 2 (Close reading and comparative analysis) |
+| Week 12 - Topics 3-9 | |
+| Week 13 - Topics 3-9 | Project Assignment Part 3 (Synchronous Presentations)<br>Project Assignment Part 4 (Submission of Design Object/Artifact) |
+| Week 14 - Topics 3-9 | Two self-selected IPs (choice between topics 3-9)<br>Project Assignment Part 5 (Heuristic OR Self-reflection, depending on option A/B) |
+
+*IP = Intellectual Production*

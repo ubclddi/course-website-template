@@ -1,4 +1,4 @@
-# [Course Name] Website
+# ETEC 565T Course Website
 
 **Live site:** https://ubclddi.github.io/course-website-template/
 
@@ -14,13 +14,13 @@ Each `.md` file here is one page on the site. Edit them on GitHub, and the site 
 
 ## Formatting
 
-| Type | To get |
-|---|---|
-| `## Heading` | Section heading (also added to "On this page" on the right) |
-| `**bold**` / `*italic*` | **bold** / *italic* |
-| `[Canvas](https://canvas.ubc.ca)` | A link |
-| `- Item` | Bullet point |
-| `![Description](images/photo.jpg)` | An image |
+| Type                               | To get                                                      |
+| ---------------------------------- | ----------------------------------------------------------- |
+| `## Heading`                       | Section heading (also added to "On this page" on the right) |
+| `**bold**` / `*italic*`            | **bold** / _italic_                                         |
+| `[Canvas](https://canvas.ubc.ca)`  | A link                                                      |
+| `- Item`                           | Bullet point                                                |
+| `![Description](images/photo.jpg)` | An image                                                    |
 
 Tables: copy an existing row and change the text. Keep the `|---|---|` line under the header row.
 
