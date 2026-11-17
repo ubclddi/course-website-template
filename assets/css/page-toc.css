@@ -1,0 +1,58 @@
+/* Hidden on small screens (phones, narrow windows) */
+.page-toc { display: none; }
+
+@media (min-width: 1100px) {
+  /* Split the page into 2 columns: content | "On this page" */
+  .main-content.has-page-toc {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 13rem;
+    column-gap: 2.5rem;
+  }
+  .main-content.has-page-toc > main { grid-column: 1; grid-row: 1; }
+  .main-content.has-page-toc > :not(main):not(.page-toc) { grid-column: 1 / -1; }
+
+  .page-toc {
+    display: block;
+    grid-column: 2;
+    grid-row: 1;
+    align-self: start;
+    position: sticky;          /* stays in view while you scroll */
+    top: 2rem;
+    max-height: calc(100vh - 4rem);
+    overflow-y: auto;
+    font-size: 0.875rem;
+  }
+}
+
+/* On big screens, give the content more room */
+@media (min-width: 1400px) {
+  .main:has(.has-page-toc) { max-width: 62rem; }
+}
+
+.page-toc-title { font-weight: 600; margin: 0 0 0.5rem; }
+
+.page-toc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-left: 1px solid #ddd;
+}
+.page-toc li { margin: 0; padding: 0; }
+.page-toc li::before { content: none; }  /* remove the theme's bullet */
+
+.page-toc a {
+  display: block;
+  padding: 0.2rem 0 0.2rem 0.9rem;
+  margin-left: -1px;
+  border-left: 2px solid transparent;
+  color: #5c5962;
+  text-decoration: none;
+}
+.page-toc .page-toc-h3 a { padding-left: 1.8rem; }  /* indent ### headings */
+
+.page-toc a:hover { color: #2c84fa; }
+.page-toc a.active {
+  color: #2c84fa;
+  border-left-color: #2c84fa;
+  font-weight: 500;
+}
