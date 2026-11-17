@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Course Content
 nav_order: 3
