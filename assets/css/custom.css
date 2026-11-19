@@ -13,3 +13,28 @@
     padding-top: 1rem;
     padding-bottom: 1rem;
   }
+
+  /* Dark/light mode button */
+.theme-toggle {
+    margin: 1.5rem 1rem 0;
+    padding: 0.35rem 0.75rem;
+    background: none;
+    border: 1px solid currentColor;
+    border-radius: 6px;
+    color: inherit;
+    font: inherit;
+    font-size: 0.875rem;
+    opacity: 0.8;
+    cursor: pointer;
+  }
+  .theme-toggle:hover { opacity: 1; }
+  
+  /* "On this page" list in dark mode */
+  html.dark .page-toc ul { border-left-color: #44434d; }
+  html.dark .page-toc a { color: #bcbcc4; }
+  html.dark .page-toc a:hover,
+  html.dark .page-toc a.active { color: #6eb5ff; }
+  html.dark .page-toc a.active { border-left-color: #6eb5ff; }
+  
+  /* UBC Library logo is black text, so flip it to white in dark mode */
+  html.dark .site-footer img[src*="rc-logo"] { filter: invert(1); }
