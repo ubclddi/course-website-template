@@ -1,0 +1,15 @@
+/* Let the sidebar title box grow to fit long course names */
+@media (min-width: 50rem) {
+    .site-header {
+      height: auto;
+      max-height: none;
+    }
+  }
+  
+  /* Smaller title text so it wraps neatly */
+  .site-title {
+    font-size: 1.125rem !important;
+    line-height: 1.3;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }

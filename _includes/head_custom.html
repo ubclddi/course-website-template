@@ -1,3 +1,8 @@
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+{% unless page.page_toc == false %}
+<link rel="stylesheet" href="{{ '/assets/css/page-toc.css' | relative_url }}">
+<script src="{{ '/assets/js/page-toc.js' | relative_url }}"></script>
+{% endunless %}
 {% unless page.page_toc == false %}
 <link rel="stylesheet" href="{{ '/assets/css/page-toc.css' | relative_url }}">
 <script src="{{ '/assets/js/page-toc.js' | relative_url }}"></script>
