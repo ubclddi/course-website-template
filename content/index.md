@@ -2,6 +2,7 @@
 layout: default
 title: Course Overview
 nav_order: 1
+permalink: /
 ---
 
 # Course Overview
