@@ -6,7 +6,7 @@ nav_order: 2
 
 # Schedule
 
-See [Course Content](content/introduction.html#course-topics) for the list of topics, and [Deliverables & Grading](deliverables.html) for full assignment details.
+See [Course Content]({{ '/content/introduction.html' | relative_url }}#course-topics) for the list of topics, and [Deliverables & Grading]({{ '/content/deliverables.html' | relative_url }}) for full assignment details.
 
 ## Course Schedule
 
