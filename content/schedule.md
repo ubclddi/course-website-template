@@ -6,7 +6,7 @@ nav_order: 4
 
 # Schedule
 
-See [Assessments]({{ '/content/deliverables.html' | relative_url }}#intellectual-productions-40) for the course topics and full assignment details.
+See [Content]({{ '/content/content.html' | relative_url }}) for topics, readings and full assignment details, and [Assessments]({{ '/content/assessments.html' | relative_url }}) for a summary of all assignments and grades.
 
 ## Course Schedule
 
