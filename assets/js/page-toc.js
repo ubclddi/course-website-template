@@ -23,7 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
       li.className = "page-toc-" + h.tagName.toLowerCase(); // page-toc-h2 or page-toc-h3
       var a = document.createElement("a");
       a.href = "#" + h.id;
-      a.textContent = h.textContent.trim();
+      a.textContent = h.dataset.toc || h.textContent.trim(); // short label if there is one
+      a.title = h.textContent.trim();                         // full title shows on hover
       li.appendChild(a);
       list.appendChild(li);
     });
