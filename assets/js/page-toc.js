@@ -4,7 +4,10 @@ document.addEventListener("DOMContentLoaded", function () {
     var main = container && container.querySelector("main");
     if (!main) return;
   
-    var headings = main.querySelectorAll("h2[id], h3[id]");
+    var headings = Array.prototype.filter.call(
+        main.querySelectorAll("h2[id], h3[id]"),
+        function (h) { return !h.closest("details"); } // skip headings inside toggles
+      );
     if (headings.length < 2) return; // not worth a list for 0 or 1 heading
   
     // Build the list
