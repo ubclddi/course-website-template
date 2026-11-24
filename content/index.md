@@ -29,6 +29,10 @@ Positive visions of AI futures for education (or automation, or institutional ef
 - **Explore Pedagogical Implications of Integrating AI in Education:** Students will go beyond merely using tools to fundamentally redesign learning experiences informed by AI's potential and limitations.
 - **Consider Pedagogical Applications of AI, Beyond Content Generation:** Students will examine innovative applications of AI in educational settings that go beyond content creation, such as AI-assisted design thinking for curriculum development or AI-driven tools for personalized learning experiences, to understand their potential advantages and challenges in enhancing teaching and learning.
 
+## Readings and Resources
+
+All readings and readings are either available on the course web blog via a direct link, located in the course LOCR (Library Online Course Reserves) which is available on the left-side of the Canvas homepage, or available in the UBC Library via an online search.
+
 ## Teaching Team
 
 ### Instructor
