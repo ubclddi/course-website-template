@@ -9,7 +9,7 @@ permalink: /
 
 **ETEC 565T: Ethical, Critical, and Professional Use of Generative AI in Teaching and Learning**
 
-![A pink "Gen AI: Scratch and Win" lottery ticket. The rows read HOPE, HYPE and NOPE, with the Y and N partly scratched off.](images/genai-scratch-card.png)
+![A pink "Gen AI: Scratch and Win" lottery ticket. The rows read HOPE, HYPE and NOPE, with the Y and N partly scratched off.]({{ '/images/genai-scratch-card.png' | relative_url }})
 
 ## Course Description
 
