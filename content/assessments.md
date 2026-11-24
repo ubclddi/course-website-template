@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assessments
-nav_order: 3
+nav_order: 2
 ---
 
 # Assessments
