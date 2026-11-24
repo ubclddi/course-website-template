@@ -26,7 +26,7 @@
   
       function updateLabel() {
         // The button names the mode you'll switch TO
-        btn.textContent = theme === "dark" ? "Light mode" : "Dark mode";
+        btn.textContent = theme === "dark" ? "☀ Light mode" : "☾ Dark mode";
         btn.setAttribute("aria-pressed", theme === "dark" ? "true" : "false");
       }
       updateLabel();
