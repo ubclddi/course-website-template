@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Course Overview
+title: Overview
 nav_order: 1
 permalink: /
 ---

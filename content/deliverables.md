@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Deliverables & Grading
-nav_order: 4
+title: Assesments
+nav_order: 3
 ---
 
 # Deliverables & Grading

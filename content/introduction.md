@@ -1,7 +1,7 @@
 --- 
 layout: default
-title: Course Content
-nav_order: 3
+title: Content
+nav_order: 2
 ---
 
 # Course Content
