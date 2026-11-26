@@ -46,12 +46,11 @@ Students are expected to follow UBC policies for academic integrity and academic
 
 Some of the learning technologies used for this course collect data to support the improvement of teaching and learning. This includes the collection of data related to overall class progress to provide personalized feedback, engagement in discussion forums to support the fostering of community within the course, and how resources are being accessed to support improvements to the course design. To learn more about learning analytics at the Faculty of Education and at UBC, see the [What is Learning Analytics?](https://ets.educ.ubc.ca/learning-analytics/students/)
 
-## Website Template
-
-Site template adapted from the [UBC Library Research Commons workshop template](https://github.com/ubc-library-rc/rc-workshop-template), which is based on the [just-the-docs](https://github.com/pmarsceill/just-the-docs) Jekyll template created by [Patrick Marsceil](https://github.com/pmarsceill) and available under the [MIT License](http://opensource.org/licenses/MIT).
-
-Template copyright: UBC Library Research Commons, [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
-
 ## Land Acknowledgement
 
 The UBC Vancouver campus is located on the traditional, ancestral, and unceded territory of the [xʷməθkʷəy̓əm (Musqueam)](https://www.musqueam.bc.ca/), səlilwətaɬ (Tsleil-Waututh), and Skwxwú7mesh-ulh Temíx̱w (Squamish) peoples.
+
+
+## About This Website
+
+Adapted from the [UBC Library Research Commons template](https://github.com/ubc-library-rc/rc-workshop-template) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)), based on [Just the Docs](https://github.com/just-the-docs/just-the-docs) ([MIT License](http://opensource.org/licenses/MIT)).
