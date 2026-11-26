@@ -35,7 +35,7 @@ All readings are either available on the course web blog via a direct link, loca
 
 ## Course Instructor
 
-**[Instructor Name](mailto:instructor@ubc.ca)**
+**[McCready, Samuel](samuel.mccready@ubc.ca)**
 Contact and availability: [to be added].
 
 ---
@@ -44,4 +44,5 @@ Contact and availability: [to be added].
 **Land Acknowledgement**
 
 The UBC Vancouver campus is located on the traditional, ancestral, and unceded territory of the [xʷməθkʷəy̓əm (Musqueam)](https://www.musqueam.bc.ca/), səlilwətaɬ (Tsleil-Waututh), and Skwxwú7mesh-ulh Temíx̱w (Squamish) peoples.
+
 </div>

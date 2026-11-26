@@ -74,8 +74,8 @@ details.topic {
 
   /* Land acknowledgement footer on the Overview page */
 .land-ack {
-    font-size: 0.875rem;
-    opacity: 0.85;
+    font-size: 0.5rem;
+    opacity: 0.5;
     margin-top: 1rem;
   }
   .land-ack p { margin: 0.25rem 0; }
