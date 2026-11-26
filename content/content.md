@@ -236,7 +236,7 @@ So, in total, you are looking at 14 sentences for this assignment, which means b
 ## Assignment 2 (20%)
 
 <details class="topic" markdown="1">
-<summary><h2 id="assignment-2" data-toc="Assignment 2 (20%)">Close reading and comparative analysis</h2></summary>
+<summary><h3 id="assignment-2" data-toc="Assignment 2 (20%)">Close reading and comparative analysis</h3></summary>
 
 Reading _The AI Mirror_ (Introduction, and chapters 1 and 2) in conversation with a piece of fiction.Choose from one of: _Frankenstein_ (1818/1831) (the novel!), _Klara and the Sun_ (2021) (also the novel!), _Metropolis_ (1927), or _Bladerunner_ (1982).
 

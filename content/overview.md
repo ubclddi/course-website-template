@@ -35,8 +35,9 @@ All readings are either available on the course web blog via a direct link, loca
 
 ## Course Instructor
 
-**[McCready, Samuel](samuel.mccready@ubc.ca)**
-Contact and availability: [to be added].
+**McCready, Samuel**
+Contact and availability: [to be added]. <br>
+Email: samuel.mccready@ubc.ca
 
 ---
 
