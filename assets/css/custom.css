@@ -79,3 +79,9 @@ details.topic {
     margin-top: 1rem;
   }
   .land-ack p { margin: 0.25rem 0; }
+
+  /* Table text same size as normal paragraph text */
+.main-content th,
+.main-content td {
+  font-size: inherit !important;
+}
