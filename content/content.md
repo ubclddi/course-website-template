@@ -11,7 +11,7 @@ nav_order: 3
 Complete 5 of 10 topics, including 3 required IPs for topics 1, 2, and 10
 
 <details class="topic" markdown="1">
-<summary><h3 id="topic-1" data-toc="Topic 1: Introductions">Topic 1: A starting place for GenAI: Introductions, Ideas, and Experimentation</h3></summary>
+<summary><h3 id="topic-1" data-toc="1: Introductions">1: A starting place for GenAI: Introductions, Ideas, and Experimentation</h3></summary>
 
 This first module aims to immerse us in some core concepts and frames for thinking about AI and GenAI. While many of us likely have a passing familiarity with GenAI, the scholarship for this week seeks to trouble and introduce tensions for us to consider as it relates to what GenAI actually is (and is not), how it works, its processes and limitations, and its connections to sociocultural, economic, political, ecological, and educational systems. GenAI's place in this chain of relationships has quickly become taken-for-granted, so it is vital that we peak under the hood (or inside the black-box, if you prefer) to really get a sense of what is going on behind the algorithm(s), synthetic machine(s), and LLMs (large-language model) etc. What, for example, is the cost of this explosion in growth in the last decade or so, in terms of raw materials, conflict minerals, energy consumption, and the leveraging of precarious and underpaid labour? How well do these tools 'learn' and work? This week is about finding our footing and getting introduced to some of the important research ongoing in this field. As part of this, students will spend some time experimenting with GenAI themselves and reflecting upon some of its blind spots and biases.
 
@@ -29,7 +29,7 @@ Interact with two or three AI-based tools (e.g., image generators, text generati
 </details>
 
 <details class="topic" markdown="1">
-<summary><h3 id="topic-2" data-toc="Topic 2: GenAI in Learning & Work">Topic 2: Critically evaluating the use(s) of GenAI in Learning, Teaching, and the Workplace</h3></summary>
+<summary><h3 id="topic-2" data-toc="2: GenAI in Learning & Work">2: Critically evaluating the use(s) of GenAI in Learning, Teaching, and the Workplace</h3></summary>
 
 In the second module, we seek to make connections between critical scholarship on AI/GenAI and some of the ways in which it might be reshaping information, knowledge, learning, work, and play. Once we have established a working understanding of what GenAI is, the question becomes what we are doing with it, and how these use cases are affecting personal, professional, and educational spaces. This brings us to more experimentation, this time taking the form of developing our own use case for GenAI, and our own framework (or heuristic) for evaluating its use in this setting. Can a GenAI tool help me write comments for student feedback? How would I evaluate its level of success on that task? Perhaps GenAI can sit in for me in a meeting at work? How could I evaluate if it catches the most important information? Questions like these are what you are invited to pose and explore with this week's assignment. Perhaps a final note of caution though, for all hype and bombast that surrounds AI/GenAI in our present moment, Suchman reminds us that one of the great successes of AI has been its capacity to render itself as mundane and innocuous, just one more (ubiquitous) 'thing' we can collectively shrug at as we ignore the first few results of our google search, or ask chatGPT to check our work for grammar and clarity.
 
@@ -57,7 +57,7 @@ Your submission here consists of two things: the developed evaluation framework 
 </details>
 
 <details class="topic" markdown="1">
-<summary><h3 id="topic-3" data-toc="Topic 3: Media in History">Topic 3: Technology and Media analysis in historical perspective</h3></summary>
+<summary><h3 id="topic-3" data-toc="3: Media in History">3: Technology and Media analysis in historical perspective</h3></summary>
 
 Readings:
 
@@ -72,7 +72,7 @@ Discuss how their analysis might be connected to GenAI (i.e. in what way are the
 </details>
 
 <details class="topic" markdown="1">
-<summary><h3 id="topic-4" data-toc="Topic 4: GenAI in the Media">Topic 4: GenAI in Popular and Public Media</h3></summary>
+<summary><h3 id="topic-4" data-toc="4: GenAI in the Media">4: GenAI in Popular and Public Media</h3></summary>
 
 Readings: 2 selected from list: View list **HERE**
 
@@ -84,7 +84,7 @@ You will select **two** media pieces/articles from a curated list of recent news
 </details>
 
 <details class="topic" markdown="1">
-<summary><h3 id="topic-5" data-toc="Topic 5: Policies & Guidelines">Topic 5: Understanding Institutional Policies and Guidelines for GenAI</h3></summary>
+<summary><h3 id="topic-5" data-toc="5: Policies & Guidelines">5: Understanding Institutional Policies and Guidelines for GenAI</h3></summary>
 
 Readings: Jen and Suzanne Paper, UBC AI Policy
 
@@ -100,7 +100,7 @@ How do we identify and distinguish between policies and guidelines? What are som
 </details>
 
 <details class="topic" markdown="1">
-<summary><h3 id="topic-6" data-toc="Topic 6: Histories & Refusals">Topic 6: GenAI, Histories, Refusals, and Futures</h3></summary>
+<summary><h3 id="topic-6" data-toc="6: Histories & Refusals">6: GenAI, Histories, Refusals, and Futures</h3></summary>
 
 Readings:
 
@@ -121,7 +121,7 @@ Your submission consists of a summary of the scenario (i.e. a chatlog of your co
 </details>
 
 <details class="topic" markdown="1">
-<summary><h3 id="topic-7" data-toc="Topic 7: Power & Ecologies">Topic 7: Power, Politics, and Ecologies</h3></summary>
+<summary><h3 id="topic-7" data-toc="7: Power & Ecologies">7: Power, Politics, and Ecologies</h3></summary>
 
 Readings:
 
@@ -146,7 +146,7 @@ You can choose to write up this analysis however you wish; as traditional text (
 </details>
 
 <details class="topic" markdown="1">
-<summary><h3 id="topic-8" data-toc="Topic 8: Conscious Machines">Topic 8: Conscious and Feeling Machines</h3></summary>
+<summary><h3 id="topic-8" data-toc="8: Conscious Machines">8: Conscious and Feeling Machines</h3></summary>
 
 Reading:
 
@@ -173,7 +173,7 @@ So, a total of about 850~ words, divided into these two parts.
 </details>
 
 <details class="topic" markdown="1">
-<summary><h3 id="topic-9" data-toc="Topic 9: Truth & p(doom)">Topic 9: GenAI, Information worlds, (post) truth, and p(doom).</h3></summary>
+<summary><h3 id="topic-9" data-toc="9: Truth & p(doom)">9: GenAI, Information worlds, (post) truth, and p(doom).</h3></summary>
 
 Readings
 
@@ -207,7 +207,7 @@ Multimodality is invited here, so feel free to use text, images, Canva, Prezi, G
 </details>
 
 <details class="topic" markdown="1">
-<summary><h3 id="topic-10" data-toc="Topic 10: Literacy & Learning">Topic 10: Literacy, Learning, and Cognitive Friction</h3></summary>
+<summary><h3 id="topic-10" data-toc="10: Literacy & Learning">10: Literacy, Learning, and Cognitive Friction</h3></summary>
 
 In the final module, we are turning our attention more specifically towards some of the core challenges that GenAI poses for us regarding literacy and thinking. As anyone who has or does make use of various GenAI platforms or AI-integrated tools that offer assistance with reading, comprehension, writing, and editing, knows, there is now a powerful suite of resources at our disposal. Any written communication - an essay, a resume, a cover letter, an email, even a text message, can now easily and quickly be run through any number of tools that remove rough edges and add polish. No more idiosyncratic quirks or minor grammar blips (though perhaps more _em_ dashes), just smooth and level text. The same is true for reading: have a complicated journal article to get through, or a long meeting document to parse? Just open Adobe and ask the AI assistant to summarize it for you and highlight core ideas/arguments, or run it through _Claude_ or _Co-pilot_ and have them do the same thing. In a sense, for reading, writing, and, yes, thinking, there is, for a _vast_ number of tasks, now a kind of 'skip to the end' feature available that is easily accessible for all of us to use. Do I need to frame and outline a piece of writing anymore if I know that a tool can fill in any gaps for me? Do I need to read carefully and make an effort to avoid distraction if I know a widget can provide a 100 word summary of any article on-demand and within a second or two of prompting it? What exactly does it cost us as learners, teachers, and professionals, when we skip steps involved in cognitive work? This module and these readings sit in tension at this meeting point, between convenience, the pressures of time, the often frenetic pace of daily life, and the hard, sometimes frustrating, and often boring work of deliberate practices of thinking and literacy. Thinking well _means_ being stuck, it means not knowing an answer to the question. And, yes, it often means being _bored._ To think well is to sit with uncertainty and wade through it, just as to read well means to be immersed in the act of reading and not juggle it with the many distractions that claw at our attention, whether we do this for 5 minutes or an hour. So, these readings ask us, how do thinking and literacy change when we are able to 'skip to the end'? What are the tradeoffs we make when we offload this work? Is there a balance to be struck between maintaining a felicity to the work of thinking and literacy while also leveraging what supportive GenAI tools and platforms do well?
 
