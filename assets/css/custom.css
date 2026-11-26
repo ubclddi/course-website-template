@@ -70,3 +70,12 @@ details.topic {
     margin: 0;
   }
   details.topic > summary .anchor-heading { display: none; }
+
+
+  /* Land acknowledgement footer on the Overview page */
+.land-ack {
+    font-size: 0.875rem;
+    opacity: 0.85;
+    margin-top: 1rem;
+  }
+  .land-ack p { margin: 0.25rem 0; }

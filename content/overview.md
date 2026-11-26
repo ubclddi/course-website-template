@@ -37,3 +37,11 @@ All readings are either available on the course web blog via a direct link, loca
 
 **[Instructor Name](mailto:instructor@ubc.ca)**
 Contact and availability: [to be added].
+
+---
+
+<div class="land-ack" markdown="1">
+**Land Acknowledgement**
+
+The UBC Vancouver campus is located on the traditional, ancestral, and unceded territory of the [xʷməθkʷəy̓əm (Musqueam)](https://www.musqueam.bc.ca/), səlilwətaɬ (Tsleil-Waututh), and Skwxwú7mesh-ulh Temíx̱w (Squamish) peoples.
+</div>
