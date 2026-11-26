@@ -19,7 +19,7 @@ In 2026, few people will not have heard of generative AI (Gen AI) and its uses f
 
 Positive visions of AI futures for education (or automation, or institutional efficiency) that are often uncritical are at this point well-rehearsed and offer little in the way of a point of entry aimed at better understanding what GenAI does, what it costs, and why it matters. In this course, we will take a critical view, examining the sustainability of AI, the resources it takes to maintain and expand AI, as well as the human and ecological costs of "training" GenAI. Readings will include general and politically nuanced accounts of "AI", as well as specific readings on its use/s in education, media/communication networks, politics, culture, medicine, and business. Students will be invited to explore potential applications, challenges and ethical considerations of using GenAI in educational contexts, as well as the wider technological, ethical, social, and political implications of GenAI use.
 
-## Course Objectives and Learning Outcomes
+## Course Objectives
 
 - **Trace the Evolution of AI Research Paradigms:** Students will analyze the major shifts in AI research methodologies and philosophical approaches, identifying key influences and turning points, including deconstruction of the "AI hype cycle" by critically examining some of the history (and the present) of AI, differentiating between actual advancements and overblown promises, identifying key turning points and influential figures.
 - **Build an understanding of Algorithms:** Students will explore the fundamental concepts of algorithms as the sets of rules and instructions that power AI systems. They will investigate how these algorithms process data, make decisions, and produce outputs, understanding their crucial role in shaping the results of AI applications in decision making in real world settings such as health care, finance, and criminal justice. Students will learn to identify the types of algorithms used and the potential consequences of that use.
@@ -31,11 +31,9 @@ Positive visions of AI futures for education (or automation, or institutional ef
 
 ## Readings and Resources
 
-All readings and readings are either available on the course web blog via a direct link, located in the course LOCR (Library Online Course Reserves) which is available on the left-side of the Canvas homepage, or available in the UBC Library via an online search.
+All readings are either available on the course web blog via a direct link, located in the course [LOCR (Library Online Course Reserves)](https://courses.library.ubc.ca/) which is available on the left-side of the Canvas homepage, or available in the UBC Library via an online search.
 
-## Teaching Team
-
-### Instructor
+## Course Instructor
 
 **[Instructor Name](mailto:instructor@ubc.ca)**
 Contact and availability: [to be added].
